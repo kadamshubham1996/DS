@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1505224079 source:c:\users\rckstr\desktop\c programming\callbyaddress\main.c
+	<stdio.h>
+	<stdlib.h>
+

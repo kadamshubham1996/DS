@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1505368098 source:c:\users\rckstr\desktop\c programming\structptr1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1505368782 source:c:\users\rckstr\desktop\c programming\structptr1\struct2.c
+	<stdio.h>
+	<conio.h>
+
